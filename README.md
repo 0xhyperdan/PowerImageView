@@ -1,7 +1,7 @@
 # PowerImageView
 可播放GIF图的ImageView自定义控件-郭神博客
 #核心类
-""package qiqi.love.you;
+<pre><code>package qiqi.love.you;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -213,4 +213,4 @@ public class PowerImageView extends ImageView implements View.OnClickListener {
         }
     }
 }
-""
+<code><pre>
