@@ -4,7 +4,8 @@
 
 # 核心类
 
-<pre><code>package qiqi.love.you;
+```java
+package qiqi.love.you;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -215,5 +216,5 @@ public class PowerImageView extends ImageView implements View.OnClickListener {
             invalidate();//视图重绘，如果我们想要手动地强制让视图进行重绘，可以调用invalidate()方法来实现。
         }
     }
-}</code></pre>
-
+}
+```
