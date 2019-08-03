@@ -1,6 +1,9 @@
 # PowerImageView
-可播放GIF图的ImageView自定义控件-郭神博客
-#核心类
+
+👂 可播放GIF图的ImageView自定义控件-郭神博客。
+
+# 核心类
+
 <pre><code>package qiqi.love.you;
 
 import android.content.Context;
